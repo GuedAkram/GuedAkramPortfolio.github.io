@@ -274,7 +274,7 @@
 	var scrollSpeed = 300; // how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
 
    // Show or hide the sticky footer button
-	jQuery(window).scroll(function() {
+	/*jQuery(window).scroll(function() {
 
 		if (!( $("#header-search").hasClass('is-visible'))) {
 
@@ -286,6 +286,6 @@
 
 		}		
 
-	});		
+	});	*/	
 
 })(jQuery);
